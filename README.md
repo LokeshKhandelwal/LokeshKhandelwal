@@ -2,9 +2,10 @@
 
 🚀 Full-Stack Developer with experience building scalable, production-grade web applications and AI-powered systems.
 
-* 💼 Ex-Software Development Engineer @ ZAGENO
 * 🎓 M.Sc. Web & Data Science @ Universität Koblenz
-* 🧠 Interested in AI, LLMs, and scalable system design
+* 💼 Ex-Software Development Engineer @ ZAGENO
+* 💼 Ex-Software Student Intern @ NOKIA
+* 🧠 Interested in Full Stack Development, AI, LLMs, and scalable system design
 
 ---
 
